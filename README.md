@@ -19,7 +19,7 @@
 > It works in this way, by summing all the characters. That above is basically a disjunction.
   But basically it is mainly this to reach the final answer.
 >
-  | p | q | q! | p or q | p and q | p and q! |  
+  | p | q | q! | p or q | p and q | p and q! |
   | 0 | 1 | 0  |   1    |    0    |    0     |
   | 1 | 0 | 1  |   1    |    0    |    1     |
   | 0 | 0 | 1  |   0    |    0    |    0     |
