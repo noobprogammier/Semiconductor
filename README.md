@@ -1,7 +1,7 @@
 # Semiconductor
 > Semiconductor is a **transistor**, when two values are getting added. Which consists two
       numerical values which numerical values follows the base 2 numerical
-      system. The first operation is to declear, wether the two items (1,0)
+      system. The first operation is to declear, whether the two items (1,0)
       is actually disjunction, which follows to mean 1 or 0 means it is 1
       . Then it comes to the conjuction, if it is 1 and 0, it will basically
       be 0. It is extremely easy to remember that kind of transistor. Then
