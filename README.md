@@ -1,5 +1,5 @@
 # Semiconductor
-> Semiconductor is a transistor is a transistor, which consists two
+> Semiconductor is a **transistor**, which consists two
       numerical values which numerical values follows the base 2 numerical
       system. The first operation is to declear, wether the two items (1,0)
       is actually disjunction, which follows to mean 1 or 0 means it is 1
