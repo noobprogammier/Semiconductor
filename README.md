@@ -8,7 +8,9 @@
       the next following operation is to guess, wether the number will be
       1(True) or 0(False). If the and value is 1, then it will be 0 and
       etcetera. You can use this program in order to speed up your process
-      in solving all the items. 
+      in solving all the items.
+<
+
 | Numerical | Value |
 | --------- | ----- |
 | 1 + 0     |  1    |
