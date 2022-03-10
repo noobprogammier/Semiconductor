@@ -20,7 +20,11 @@
   But basically it is mainly this to reach the final answer.
 >
   | p | q | q! | p or q | p and q | p and q! |
+  <br>
   | 0 | 1 | 0  |   1    |    0    |    0     |
+  <br>
   | 1 | 0 | 1  |   1    |    0    |    1     |
+  <br>
   | 0 | 0 | 1  |   0    |    0    |    0     |
+  <br>
   | 1 | 1 | 0  |   0    |    1    |    0     |
